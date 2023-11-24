@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @37ZetelsVoorPVV - Teun
+- 👀 I’m interested in to much coding
+- 🌱 I’m currently learning React, XML, PHP & much more
+- 💞️ I’m looking to collaborate on nothing, don't bother asking
+- 📫 How to reach me: teunpleiter@rijs.nl
